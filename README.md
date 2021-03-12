@@ -1,11 +1,13 @@
 # TMDBQuerySearch
 TMDB-Movie-Search
+
 A web page that allows users to search for movies by name using the tmdb api. 
 This program runs on Python using Flask and Jinja You will need python installed to run the program
 
 clone repository or download zip folder
 
 open up command prompt and navigate to the folder directory
+
 Create a virtual environment:
 ```
 py -m venv env
